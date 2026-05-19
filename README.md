@@ -107,14 +107,15 @@ This project is also a great introduction to:
 # 🛒 Exact Parts Used In This Build
 
 <div align="center">
+<a href="https://s.click.aliexpress.com/e/_c3cJsGfP">
 <img src="https://img.shields.io/badge/🎯%20MPU6050%20Used%20In%20This%20Project-View%20Part-green?style=for-the-badge">
-<a href="https://beacons.ai/ztronics/">
+<a href="https://s.click.aliexpress.com/e/_c3so8YfR">
 <img src="https://img.shields.io/badge/🛒%20ESP32%20Dev%20Board-View%20Part-blue?style=for-the-badge">
 </a>
 
 <br><br>
 
-<a href="https://beacons.ai/ztronics/">
+<a href="https://s.click.aliexpress.com/e/_c3ZJSLnj">
 <img src="https://img.shields.io/badge/📟%20SSD1306%20OLED-View%20Part-black?style=for-the-badge">
 </a>
 
