@@ -246,13 +246,7 @@ The same concepts can also be adapted for:
 # 📂 Repository Structure
 
 esp32-oled-snake/
-
-├── images/  
-│   ├── gameplay.gif  
-│   ├── gameplay.jpg  
-│   └── wiring.png  
-
-├── esp32-oled-snake.ino  
+├── esp32-oled-ic2-snake-mpu6050.ino  
 ├── README.md  
 └── LICENSE  
 
